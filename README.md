@@ -67,7 +67,7 @@ python events_to_daily_heatmap.py usagestats_dump.txt --top 12
 Outputs:
 
 [GUI Screenshot](assets/gui.png)
-[Bar Chart] (assets/Figure_1.png)
+[Top 10 Launches](assets/Figure_1.png)
 [Heatmap Example](assets/Figure_2.png)
 [Gantt Example](assets/Figure_3.png)
 
