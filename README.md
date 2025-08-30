@@ -66,12 +66,11 @@ python events_to_daily_heatmap.py usagestats_dump.txt --top 12
 
 Outputs:
 
-daily_launch_counts.csv
+[GUI Screenshot](assets/gui.png)
+[Bar Chart] (assets/Figure_1.png)
+[Heatmap Example](assets/Figure_2.png)
+[Gantt Example](assets/Figure_3.png)
 
-launch_heatmap.png
-
-Gantt Chart (sessions for one day)
-python events_to_gantt.py usagestats_dump.txt --day 2025-08-30 --top 10
 
 🔒 Disclaimer
 
